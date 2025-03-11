@@ -20,6 +20,7 @@ Step 3 Run:
 sudo python3 led_blink.py
 ```
 
+GPIO
 ```
 root@orangepizero3:~# gpio readall
  +------+-----+----------+--------+---+   H616   +---+--------+----------+-----+------+
