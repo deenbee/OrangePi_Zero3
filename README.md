@@ -20,6 +20,9 @@ Step 3 Run:
 sudo python3 led_blink.py
 ```
 
+VIDEO LINK:
+https://youtu.be/iP4G4-nH9pA?si=FtOUpV_2AZvUeMOb
+
 GPIO
 ```
 root@orangepizero3:~# gpio readall
