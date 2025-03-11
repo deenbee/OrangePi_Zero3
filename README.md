@@ -11,3 +11,7 @@ Step 2 Run:
 chmod +x install_wiringpi.sh
 
 bash install_wiringpi.sh
+
+Step 3 Run:
+
+sudo python3 led_blink.py
