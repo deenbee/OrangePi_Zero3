@@ -1,5 +1,7 @@
 # OrangePi_Zero3
 
+How to install WiringPI on OrangePI Zero 3
+
 Step 1 Download:
 
 install_wiringpi.sh
